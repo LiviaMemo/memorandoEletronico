@@ -1,0 +1,23 @@
+.titulo {
+	height: 100px;
+	width: 50%;
+	background: #80B2FF;
+	font-size: 100px;
+}
+
+.subtitulo {
+	height: 25;
+	width: 50%;
+	background: #C0D8FF;
+	font-size: 25px;
+}
+
+.conteudo {
+	height: relative;
+	width: 50%;
+	background: #8DFF8D;
+}
+
+.logoimg {
+	height: 100px;
+}
